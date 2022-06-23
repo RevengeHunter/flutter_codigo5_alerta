@@ -6,7 +6,7 @@
             <action android:name="android.intent.action.VIEW" />
             <data android:scheme="sms" />
         </intent>
-        <!-- If your app checks for call support -->
+        <!-- If your app checks for call supports -->
         <intent>
             <action android:name="android.intent.action.VIEW" />
             <data android:scheme="tel" />
